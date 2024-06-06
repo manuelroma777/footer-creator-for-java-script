@@ -1,0 +1,33 @@
+{
+  "name": "footer-creator-for-java-script",
+  "version": "0.1.0",
+  "description": "Module to create a \"footer\" for Java Script app`s and it include name and current year.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelroma777/footer-creator-for-java-script.git"
+  },
+  "keywords": [
+    "footer",
+    "footer",
+    "creator",
+    "java",
+    "script",
+    "for",
+    "java",
+    "script",
+    "app"
+  ],
+  "author": "Manuel <manuelroma555@hotmail.es> (https://github.com/manuelroma777)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manuelroma777/footer-creator-for-java-script/issues"
+  },
+  "homepage": "https://github.com/manuelroma777/footer-creator-for-java-script#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
